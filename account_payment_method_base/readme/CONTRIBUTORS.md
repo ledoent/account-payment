@@ -1,1 +1,2 @@
 - Alexis de Lattre \<<alexis.delattre@akretion.com>\>
+- Don Kendall \<<dkendall@ledoweb.com>\>
