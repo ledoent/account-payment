@@ -1,0 +1,3 @@
+-   Rafael Blasco ([Moduon](https://www.moduon.team/))
+-   Jairo Llopis ([Moduon](https://www.moduon.team/))
+- Don Kendall \<<dkendall@ledoweb.com>\>
